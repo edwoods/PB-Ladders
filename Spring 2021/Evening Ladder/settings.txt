@@ -1,0 +1,17 @@
+gTabWidget, <PyQt5.QtWidgets.QTabWidget object at 0x0ED54BB0>
+startpath, C:\Users\Ed\PycharmProjects\PB Ladder
+dir, C:\Users\Ed\iCloudDrive\Spring 2020
+nweeks, 10
+start time, 9:00
+ncourts, 6
+start date, 04/01/21
+match duration, 1:15
+game to, 11
+rank spacing, 3
+predicted rating sigma, 6.5
+bonus factor, 1.5
+pts for win, 6
+pts for loss, 5
+sessions, ['w1', 'w2', 'w3', 'w4', 'w5', 'w6', 'w7', 'w8', 'w9', 'w10']
+sessions w/ date, ['w1\nApr 01', 'w2\nApr 08', 'w3\nApr 15', 'w4\nApr 22', 'w5\nApr 29', 'w6\nMay 06', 'w7\nMay 13', 'w8\nMay 20', 'w9\nMay 27', 'w10\nJun 03']
+match times, ['09:00', '10:15', '11:30', '12:45', '14:00', '15:15', '16:30', '17:45', '19:00', '20:15']
